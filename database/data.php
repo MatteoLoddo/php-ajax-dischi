@@ -4,7 +4,7 @@ $discList = [
   [
   "author" => "Bon Jovi",
   "genre" => "Rock",
-  "poster" => "https://www.onstageweb.com/wp-content/uploads/2018/09/bon-jovi-new-jersey.jpg",
+  "poster" => "https://images-na.ssl-images-amazon.com/images/I/51sBr4IWDwL.jpg",
   "title" => "New Jersey",
   "year" => "1988",
   ],
@@ -77,8 +77,9 @@ $discList = [
   "title"=> "Bad",
   "year"=> "1987",
   ],
-  
-  
-  ]
+];
+
+
 
 ?>
+
