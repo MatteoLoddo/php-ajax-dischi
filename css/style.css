@@ -1,0 +1,31 @@
+:root {
+  --my-primary-color: #2E3A46;
+  --my-secondary-color: #1E2D3B;
+}
+
+img {
+  padding: 0.5rem;
+  width: 100%;
+  aspect-ratio: 1/1;
+}
+.my-bg-secondary{
+  background-color: var(--my-primary-color);
+
+}
+
+.bg-main-app{
+  height: calc(100vh - 70px);
+  background-color: var(--my-secondary-color);
+}
+.my-header {
+  height: 70px;
+  position: sticky;
+  top: 0;
+  display: flex;
+  background-color: var(--my-primary-color);
+}
+
+.my-header svg {
+  width: 50px;
+  height: 50px;
+}
